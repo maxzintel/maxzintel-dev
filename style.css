@@ -44,8 +44,6 @@ h2 {
 }
 
 .logo-box {
-  display: flex;
-  justify-content: right;
   margin-left: 10px;
   width: 4%;
 }
